@@ -9,3 +9,4 @@ b) EmoticonSentimentLexicon.txt - Each line contains the emoticon along with its
 Due to the large size, I've uploaded the dataset on dropbox. 
 Link to the dataset - https://www.dropbox.com/sh/stmmqptqi2ilkh4/AABgHVacywLuf3CGkT42jpowa?dl=0
 
+If you use this dataset for academic purpose, please cite this url - https://github.com/ologn13/Reddit_Emoticon_Dataset. :)
