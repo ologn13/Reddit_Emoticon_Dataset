@@ -6,3 +6,6 @@ a) reddit_emoticons_dataset - Each line contains comment text and the emoticon a
 
 b) EmoticonSentimentLexicon.txt - Each line contains the emoticon along with its sentiment (1 - positive, 0 - neutral, and (-1) - negative). 
 
+Due to the large size, I've uploaded the dataset on dropbox. 
+Link to the dataset - https://www.dropbox.com/sh/stmmqptqi2ilkh4/AABgHVacywLuf3CGkT42jpowa?dl=0
+
